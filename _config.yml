@@ -1,7 +1,7 @@
 name: My Right Eye
 favicon: null
-layout_spectrum: 0.2302737133577466
-typography_spectrum: 0.8984867364633828
+layout_spectrum: 0.96718
+typography_spectrum: 0.40722
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.7168158784043044
-  lightness: 0.36995823914185166
-  saturation: 0.38383476668968797
-  rhythmicContrast: 0.368811909109354
+  brandStrength: 0.1875
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
